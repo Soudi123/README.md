@@ -10,6 +10,7 @@ CSS / SASS
 JavaScript (ES6)
 React
 Node.js
+IntelliJ IDEA
 Some of my projects you can check out are:
 
 
